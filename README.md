@@ -1,5 +1,4 @@
 # 📊 Marketing Campaign Analysis
-**Applied Data Science with Python – Course-End Project**
 
 ## 📌 Project Overview
 This project focuses on analyzing customer behavior and marketing performance using the Four Ps of Marketing: Product, Price, Place, and Promotion. The objective is to apply exploratory data analysis (EDA), feature engineering, statistical hypothesis testing, and visualization to uncover insights that can help businesses improve customer acquisition, campaign effectiveness, and channel strategy.
